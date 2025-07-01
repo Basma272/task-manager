@@ -25,7 +25,6 @@ Elshafra is a full-featured Task Management REST API with user authentication, e
 | Database   | MongoDB + Mongoose       |
 | Auth       | JWT, OTP via Nodemailer  |
 | Validation | Joi                      |
-| Docs       | Swagger (coming soon)    |
 | Structure  | MVC + Clean Code         |
 
 ---
@@ -101,7 +100,6 @@ DELETE /api/users/me Delete user + their tasks
 
  Fully tested via Postman
 
- Swagger Docs (coming soon)
 
 ---
 
