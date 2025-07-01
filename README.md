@@ -1,6 +1,6 @@
-# 📝 Task Manager API – Elshafra 🕵️‍♀️
+# 📝 Task Manager 
 
-Elshafra is a full-featured Task Management REST API with user authentication, email verification (OTP), role-based access (User/Admin), and secure CRUD operations.
+Task Manager  is a full-featured Task Management REST API with user authentication, email verification (OTP), role-based access (User/Admin), and secure CRUD operations.
 
 ---
 
